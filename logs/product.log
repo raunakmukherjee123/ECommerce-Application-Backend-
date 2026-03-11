@@ -1,0 +1,970 @@
+2026-03-11T00:00:22.169+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0633e3c1ecdce5779a7798c1b17a1-5779a7798c1b17a1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:00:52.927+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0635c4f83b43ffbcbc52bd5b405b2-fbcbc52bd5b405b2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:01:22.938+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0637a85ee75a25ee3033a7a2077ec-5ee3033a7a2077ec] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:01:52.974+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0639806be122f8ae8bad28db1a3a9-8ae8bad28db1a3a9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:02:23.001+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b063b64f354bdfa4838d630438b74a-a4838d630438b74a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:02:53.023+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b063d54ab1b978d1f9203d1d4976cb-d1f9203d1d4976cb] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:03:23.050+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b063f3ecd36fb88e5641bf795e8f6f-8e5641bf795e8f6f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:03:44.409+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:03:53.070+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0641149698e0a62fdd763bc224991-62fdd763bc224991] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:04:23.099+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0642f0465ca4d140213fd714276b6-140213fd714276b6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:04:53.118+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0644dbf89f0510c68552b724fe156-0c68552b724fe156] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:05:23.162+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0646b6609d39746b06c6a20c233ae-46b06c6a20c233ae] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:05:53.206+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0648933eb82a305ff55422f8feed2-05ff55422f8feed2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:06:23.219+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b064a7616938ac7a672080cc5e9e27-7a672080cc5e9e27] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:06:53.250+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b064c5ecfef6d1f0a948f264345c35-f0a948f264345c35] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:07:23.264+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b064e35c0896e00ef0ac402bcde6f1-0ef0ac402bcde6f1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:07:53.275+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b065017b984a41076a71f7064be8fd-076a71f7064be8fd] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:08:23.291+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0651fcaf25f284f5c5a5caeb49eca-4f5c5a5caeb49eca] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:08:44.432+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:08:53.324+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0653d25600c355a0685111a490eeb-5a0685111a490eeb] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:09:23.350+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0655bf5178c0a19d5cb12cbab86d4-19d5cb12cbab86d4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:09:53.431+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06579a083be8383c48f05669cff3d-83c48f05669cff3d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:10:23.441+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06597aab3bcf0e8b05759458ad005-e8b05759458ad005] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:10:53.470+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b065b5a3089cae345173719347d586-345173719347d586] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:11:23.509+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b065d3d3c9f96c8c90086b163b7e77-8c90086b163b7e77] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:11:53.533+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b065f13c70db59b84d634fa6bbd273-b84d634fa6bbd273] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:12:23.545+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0660f14f23f4496df312e4a03cd04-96df312e4a03cd04] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:12:53.556+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0662dcafb689222e63ed2096429d6-22e63ed2096429d6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:13:23.590+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0664bbe898434adfc7c3593d10144-adfc7c3593d10144] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:13:44.440+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:13:53.637+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06669b402d1d1dd972a2ad8a12e18-dd972a2ad8a12e18] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:14:23.647+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06687c17b16116bbca97a678e9e4d-6bbca97a678e9e4d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:14:53.684+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b066a56d480d0be4b657ca0af57003-e4b657ca0af57003] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:15:23.742+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b066c3d87cd35c4d37840cffd5179c-4d37840cffd5179c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:15:53.770+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b066e125dcc3c1bb2b46359008d9eb-bb2b46359008d9eb] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:16:24.176+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06700b73a81bad476bc18db435f6b-d476bc18db435f6b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:16:54.213+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0671e7dbde54671f7f78daaeba5b2-71f7f78daaeba5b2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:17:24.245+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0673c3c572b625562f5e023e5dca4-5562f5e023e5dca4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:17:54.281+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0675a18694d7f7bd67b205a3388a0-7bd67b205a3388a0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:18:24.296+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06778930920afecd0fa0919a15ee0-ecd0fa0919a15ee0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:18:44.450+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:18:54.310+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06796494a705a8ba5431ecf3383d8-8ba5431ecf3383d8] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:19:24.347+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b067b4ecae65812d2029e1cd7949c5-2d2029e1cd7949c5] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:19:54.378+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b067d25eac25132dc31ab624e1138b-2dc31ab624e1138b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:20:24.411+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b067f0b2a2a6510643361dd3ca4ee9-0643361dd3ca4ee9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:20:54.443+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0680e7c6905ae08fa1d615c1b0ae0-08fa1d615c1b0ae0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:21:24.474+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0682c6ec521b9ee02e7e4042cf395-ee02e7e4042cf395] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:21:54.481+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0684a7f9efe4755b00d925eb754c6-55b00d925eb754c6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:22:24.491+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06868b707548e895090c41a5b54be-895090c41a5b54be] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:22:54.520+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0688692ef6ceea7a156c90776cdf6-a7a156c90776cdf6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:23:24.554+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b068a49b324ea2dca7070240af4e81-dca7070240af4e81] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:23:44.455+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:23:54.587+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b068c21ea2f3c78c401844bd4e1d1e-8c401844bd4e1d1e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:24:24.625+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b068e0af5149e7830864b985e74f06-830864b985e74f06] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:24:54.651+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b068fe4b7d6cfb92f3ab9c91180805-92f3ab9c91180805] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:25:24.664+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0691c26854c529f4fe45eee93d92e-9f4fe45eee93d92e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:25:54.691+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0693ab937674de47b9029711418b1-e47b9029711418b1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:26:24.714+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06958ee583c83b3d1166f9992baae-b3d1166f9992baae] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:26:54.803+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06976dd0b6d1a689f245e968e1fd2-689f245e968e1fd2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:27:24.828+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06994e2f9cf62c8d3a112fef5ab89-c8d3a112fef5ab89] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:27:54.840+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b069b24b874adedee88228af803a2d-dee88228af803a2d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:28:24.849+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b069d05f8af18b8cf123d89d5144e4-8cf123d89d5144e4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:28:44.479+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:28:54.930+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b069eee46dbb2cba247025c1be2fac-ba247025c1be2fac] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:29:24.941+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06a0cc2066c8aa0689d64b89357f3-a0689d64b89357f3] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:29:54.975+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06a2a2fb194439384584b4eb05ae5-9384584b4eb05ae5] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:30:25.012+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06a48081771da86e4c50888ce298e-86e4c50888ce298e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:30:55.030+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06a67caf94053c544a8665da6fa29-c544a8665da6fa29] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:31:25.040+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06a85da5074d5deea2e2f49b91cfa-deea2e2f49b91cfa] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:31:55.246+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06aa38e8e8c16ae46305b2b16972e-ae46305b2b16972e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:32:25.295+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06ac114c762e2cab83f3dcf6f7ce1-cab83f3dcf6f7ce1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:32:55.395+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06adfd58cdba67325c617300d5774-7325c617300d5774] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:33:25.461+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06afd3cba6428644c38607681ab8b-644c38607681ab8b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:33:44.502+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:33:55.585+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06b1b376168514ec24b8dc54bcba0-4ec24b8dc54bcba0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:34:25.722+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06b39e8aefdf368619712b7c829b4-68619712b7c829b4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:34:55.765+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06b57b9dd945311d2b58ac8214b9a-11d2b58ac8214b9a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:35:25.798+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06b75e4b4d9404158330b67728219-4158330b67728219] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:35:56.115+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06b93d9b7d119a5fb810cd8316744-a5fb810cd8316744] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:35:56.525+05:30  INFO 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-11T00:35:56.532+05:30  INFO 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-11T00:35:56.542+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2026-03-11T00:35:56.545+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2026-03-11T00:35:56.770+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@26b6c4de
+2026-03-11T00:35:56.776+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@1dde2d1
+2026-03-11T00:35:56.786+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2026-03-11T00:35:56.787+05:30  INFO 28988 --- [product] [http-nio-8081-exec-2] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 253 ms
+2026-03-11T00:35:57.081+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [69b06b947731267cf07abbf1f734d627-f07abbf1f734d627] o.s.web.servlet.DispatcherServlet        : GET "/api/products/fetch", parameters={}
+2026-03-11T00:35:57.182+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [69b06b947731267cf07abbf1f734d627-f07abbf1f734d627] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.ecommerce.product.controller.ProductController#fetchAllProducts()
+2026-03-11T00:35:58.704+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [69b06b947731267cf07abbf1f734d627-f07abbf1f734d627] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2026-03-11T00:35:58.726+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [69b06b947731267cf07abbf1f734d627-f07abbf1f734d627] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [[ProductResponse(name=p4, description=desc3, price=1000.88, category=cat2, imageUrl=iu.in, stockQuan (truncated)...]
+2026-03-11T00:35:58.949+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-2] [69b06b947731267cf07abbf1f734d627-f07abbf1f734d627] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2026-03-11T00:36:01.095+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-1] [69b06b999adf2cdafb8d387cf7b5295f-fb8d387cf7b5295f] o.s.web.servlet.DispatcherServlet        : GET "/api/products/fetch", parameters={}
+2026-03-11T00:36:01.098+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-1] [69b06b999adf2cdafb8d387cf7b5295f-fb8d387cf7b5295f] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.ecommerce.product.controller.ProductController#fetchAllProducts()
+2026-03-11T00:36:01.115+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-1] [69b06b999adf2cdafb8d387cf7b5295f-fb8d387cf7b5295f] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2026-03-11T00:36:01.116+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-1] [69b06b999adf2cdafb8d387cf7b5295f-fb8d387cf7b5295f] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [[ProductResponse(name=p4, description=desc3, price=1000.88, category=cat2, imageUrl=iu.in, stockQuan (truncated)...]
+2026-03-11T00:36:01.121+05:30 DEBUG 28988 --- [product] [http-nio-8081-exec-1] [69b06b999adf2cdafb8d387cf7b5295f-fb8d387cf7b5295f] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2026-03-11T00:36:26.162+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06bb299c6dd92b273e76d9eeb1bd9-b273e76d9eeb1bd9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:36:56.202+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06bd09b6220d9074a4e9e52ffd4ff-074a4e9e52ffd4ff] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:37:26.240+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06bee4b1970e2da27eb10b79f54e9-da27eb10b79f54e9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:37:56.274+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06c0ccfc6e53622918ea010c94133-22918ea010c94133] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:38:26.312+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06c2a74a9e1f5b8d90a77402f63c2-b8d90a77402f63c2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:38:44.558+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:38:56.347+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06c48b7eb1a116d558c370318f19c-6d558c370318f19c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:39:26.393+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06c66791162b497f9d47130072969-97f9d47130072969] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:39:56.444+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06c84c704715fdd526122208f19cb-dd526122208f19cb] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:40:26.487+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06ca24ff672b0af75d423961a65e1-af75d423961a65e1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:40:56.546+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06cc05a1f47f88ecdf07eff8db799-8ecdf07eff8db799] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:41:26.583+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06cdead3d57de0e6535c779d660d3-0e6535c779d660d3] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:41:56.617+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06cfce23d0fc71a5172d94f120d5b-1a5172d94f120d5b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:42:26.659+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06d1acc388458537ca8b0e972ecda-537ca8b0e972ecda] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:42:56.732+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06d38181b7b1e8cd45b8f5d495039-8cd45b8f5d495039] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:43:26.760+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06d56e8cfb1612d1392ba9aa33499-2d1392ba9aa33499] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:43:45.744+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T00:43:56.788+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06d743b09f2e2e0d35ef3ff979b26-e0d35ef3ff979b26] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:44:26.815+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06d92c710c195d77b8c81dfdd210d-d77b8c81dfdd210d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:44:56.846+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06db019654c5a7600b5727b2ec8a8-7600b5727b2ec8a8] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:45:27.163+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06dcf483177f85cf36fdd62bbc58b-5cf36fdd62bbc58b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:45:58.237+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06dee4ce453841f643feb7cfc26a1-1f643feb7cfc26a1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:46:28.267+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b06e0cf405ec944991902a8c383c49-4991902a8c383c49] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:56:24.234+05:30  WARN 28988 --- [product] [HikariPool-1:housekeeper] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m7s226ms868µs700ns).
+2026-03-11T00:56:41.970+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b070719b78ad72b18abc660abac785-b18abc660abac785] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:57:13.742+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b07091294fc76d9a2174ffc7c26624-9a2174ffc7c26624] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:57:43.781+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b070af0ab5956efcc10534edbdea0c-fcc10534edbdea0c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T00:58:13.799+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b070cd44885a7e52619183b24e3c6d-52619183b24e3c6d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:09:00.232+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T01:08:59.756+05:30  WARN 28988 --- [product] [HikariPool-1:housekeeper] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m57s237ms543µs).
+2026-03-11T01:09:12.300+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0735f13a6f45991d027275c637b48-91d027275c637b48] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:09:42.464+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0737e7e3937b376c11994d9e9b746-76c11994d9e9b746] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:10:12.574+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0739ca7421f5df6adc83d64046e8c-f6adc83d64046e8c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:10:42.603+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b073bad4366f5c9015999b165fd0c2-9015999b165fd0c2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:11:12.700+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b073d873ecb3af3c6fbc7672559238-3c6fbc7672559238] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:11:42.864+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b073f63c5bc3b36032a68ef73b143f-6032a68ef73b143f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:12:12.904+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b07414b2e48a7ae7d29cef814c6f6c-e7d29cef814c6f6c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:12:42.941+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0743263be77445c9c9241c1214681-5c9c9241c1214681] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:13:12.975+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0745042d15c2eb553e457d564064f-b553e457d564064f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:13:42.998+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0746ed2b488e18aeabeb5cbf8e31f-8aeabeb5cbf8e31f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:14:00.405+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T01:14:13.007+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0748de666ea477043eda0551c4683-7043eda0551c4683] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:14:43.035+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b074abb0347e810210662ff3ff5b86-0210662ff3ff5b86] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:15:13.066+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b074c9ab35fb69ac73e52ac1bd2e6a-ac73e52ac1bd2e6a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:15:43.106+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b074e7f3e7b99cac787c052ba8752f-ac787c052ba8752f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:16:13.134+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075055a692e69cf18f56fbe0ddf13-cf18f56fbe0ddf13] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:16:43.169+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075232d2a7c6405ae9e5387c884b8-05ae9e5387c884b8] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:17:13.200+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075418b31e4aee629d285136b234c-e629d285136b234c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:17:43.213+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0755ff482c91feb82514c42daa287-eb82514c42daa287] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:18:13.235+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0757dca6d2c2764592014640dc6a7-64592014640dc6a7] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:18:43.245+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0759b2de281a7873f66015ff528af-873f66015ff528af] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:19:00.430+05:30  INFO 28988 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T01:19:13.270+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075b959d122136c680032aed65674-6c680032aed65674] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:19:43.307+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075d734ac98e9c25813200f8d4bdd-c25813200f8d4bdd] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:20:13.327+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b075f545b6ed29dfbca0eeed4b0091-dfbca0eeed4b0091] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:20:43.338+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b07613fb317d32ff885c6f0c5d6400-ff885c6f0c5d6400] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:21:14.335+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b07631c926420314bf0c6a8176cc0c-14bf0c6a8176cc0c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:21:44.419+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b07650829c93c7ef35dfbe1a635abc-ef35dfbe1a635abc] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:22:14.470+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0766e9f30767b3a673703148a78aa-3a673703148a78aa] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:22:44.529+05:30 DEBUG 28988 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b0768c06c580e4ac9ef64c71e9907c-ac9ef64c71e9907c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T01:22:49.049+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application PRODUCT with eureka with status DOWN
+2026-03-11T01:22:49.052+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1773172369051, current=DOWN, previous=UP]
+2026-03-11T01:22:49.055+05:30  INFO 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081: registering service...
+2026-03-11T01:22:49.139+05:30 DEBUG 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [69b076911f46cdb933c20adbcb83ebcd-33c20adbcb83ebcd] o.s.web.client.DefaultRestClient         : Writing [InstanceInfo [instanceId = LAPTOP-5CQ16E5N.mshome.net:product:8081, appName = PRODUCT, hostName = 172.23.192.1, status = DOWN, ipAddr = 172.23.192.1, port = 8081, securePort = 443, dataCenterInfo = com.netflix.appinfo.MyDataCenterInfo@53ae8844] as "application/json" with org.springframework.http.converter.json.MappingJackson2HttpMessageConverter
+2026-03-11T01:22:49.231+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-11T01:22:49.277+05:30  INFO 28988 --- [product] [tomcat-shutdown] [                                                 ] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-11T01:22:49.303+05:30  INFO 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.createResourceAccessException(DefaultRestClient.java:763)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:615)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchange(DefaultRestClient.java:567)
+	at org.springframework.web.client.RestClient$RequestHeadersSpec.exchange(RestClient.java:750)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.executeAndExtract(DefaultRestClient.java:896)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.toBodilessEntity(DefaultRestClient.java:860)
+	at org.springframework.cloud.netflix.eureka.http.RestClientEurekaHttpClient.register(RestClientEurekaHttpClient.java:64)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:828)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:125)
+	at com.netflix.discovery.InstanceInfoReplicator$2.run(InstanceInfoReplicator.java:105)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:639)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeWithRequest(AbstractBufferingClientHttpRequest.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest$EndOfChainRequestExecution.execute(InterceptingClientHttpRequest.java:102)
+	at org.springframework.cloud.netflix.eureka.http.RestClientTransportClientFactory.lambda$newClient$2(RestClientTransportClientFactory.java:98)
+	at org.springframework.http.client.ClientHttpRequestInterceptor.lambda$apply$0(ClientHttpRequestInterceptor.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:73)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:50)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:609)
+	... 23 more
+
+2026-03-11T01:22:49.304+05:30  WARN 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-03-11T01:22:49.349+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.a.r.l.SimpleMessageListenerContainer : Waiting for workers to finish.
+2026-03-11T01:22:49.416+05:30 DEBUG 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [69b076917f2c2e9cd4438ac765e5add1-d4438ac765e5add1] o.s.web.client.DefaultRestClient         : Writing [InstanceInfo [instanceId = LAPTOP-5CQ16E5N.mshome.net:product:8081, appName = PRODUCT, hostName = 172.23.192.1, status = DOWN, ipAddr = 172.23.192.1, port = 8081, securePort = 443, dataCenterInfo = com.netflix.appinfo.MyDataCenterInfo@53ae8844] as "application/json" with org.springframework.http.converter.json.MappingJackson2HttpMessageConverter
+2026-03-11T01:22:49.442+05:30  INFO 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.createResourceAccessException(DefaultRestClient.java:763)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:615)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchange(DefaultRestClient.java:567)
+	at org.springframework.web.client.RestClient$RequestHeadersSpec.exchange(RestClient.java:750)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.executeAndExtract(DefaultRestClient.java:896)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.toBodilessEntity(DefaultRestClient.java:860)
+	at org.springframework.cloud.netflix.eureka.http.RestClientEurekaHttpClient.register(RestClientEurekaHttpClient.java:64)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:828)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:125)
+	at com.netflix.discovery.InstanceInfoReplicator$2.run(InstanceInfoReplicator.java:105)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:639)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeWithRequest(AbstractBufferingClientHttpRequest.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest$EndOfChainRequestExecution.execute(InterceptingClientHttpRequest.java:102)
+	at org.springframework.cloud.netflix.eureka.http.RestClientTransportClientFactory.lambda$newClient$2(RestClientTransportClientFactory.java:98)
+	at org.springframework.http.client.ClientHttpRequestInterceptor.lambda$apply$0(ClientHttpRequestInterceptor.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:73)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:50)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:609)
+	... 24 more
+
+2026-03-11T01:22:49.443+05:30  WARN 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on POST request for "http://localhost:8761/eureka/apps/PRODUCT": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-03-11T01:22:49.444+05:30  WARN 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081 - registration failed Cannot execute request on any known server
+
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:828) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:125) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.InstanceInfoReplicator$2.run(InstanceInfoReplicator.java:105) ~[eureka-client-2.0.5.jar:2.0.5]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-03-11T01:22:49.451+05:30  WARN 28988 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] c.n.discovery.InstanceInfoReplicator     : There was a problem with the instance info replicator
+
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:828) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:125) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.InstanceInfoReplicator$2.run(InstanceInfoReplicator.java:105) ~[eureka-client-2.0.5.jar:2.0.5]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-03-11T01:22:49.689+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.a.r.l.SimpleMessageListenerContainer : Successfully waited for workers to finish.
+2026-03-11T01:22:49.693+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.a.i.AmqpInboundChannelAdapter      : stopped bean 'inbound.springCloudBus.anonymous.WwEdGghBS1mEYIr6hs2hWQ'
+2026-03-11T01:22:49.755+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'product.rabbit-1216067280.springCloudBusInput.errors' has 1 subscriber(s).
+2026-03-11T01:22:49.759+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'product.rabbit-1216067280.springCloudBusInput.errors' has 0 subscriber(s).
+2026-03-11T01:22:49.931+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : Removing {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2026-03-11T01:22:49.931+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.channel.PublishSubscribeChannel    : Channel 'product.errorChannel' has 0 subscriber(s).
+2026-03-11T01:22:49.932+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : stopped bean '_org.springframework.integration.errorLogger'
+2026-03-11T01:22:49.983+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-11T01:22:50.028+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-03-11T01:22:50.045+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-03-11T01:22:50.903+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2026-03-11T01:22:53.907+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2026-03-11T01:22:53.954+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.createResourceAccessException(DefaultRestClient.java:763)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:615)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchange(DefaultRestClient.java:567)
+	at org.springframework.web.client.RestClient$RequestHeadersSpec.exchange(RestClient.java:750)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.executeAndExtract(DefaultRestClient.java:896)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.toBodilessEntity(DefaultRestClient.java:860)
+	at org.springframework.cloud.netflix.eureka.http.RestClientEurekaHttpClient.cancel(RestClientEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:919)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:900)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:453)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:411)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:237)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:193)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:209)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:795)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:745)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1500)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:704)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1493)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1225)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1186)
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:176)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1132)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:639)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeWithRequest(AbstractBufferingClientHttpRequest.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest$EndOfChainRequestExecution.execute(InterceptingClientHttpRequest.java:102)
+	at org.springframework.cloud.netflix.eureka.http.RestClientTransportClientFactory.lambda$newClient$2(RestClientTransportClientFactory.java:98)
+	at org.springframework.http.client.ClientHttpRequestInterceptor.lambda$apply$0(ClientHttpRequestInterceptor.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:73)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:50)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:609)
+	... 40 more
+
+2026-03-11T01:22:53.959+05:30  WARN 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-03-11T01:22:53.959+05:30 ERROR 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081 - de-registration failedCannot execute request on any known server
+
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:919) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:900) ~[eureka-client-2.0.5.jar:2.0.5]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:453) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:411) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:237) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:193) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387) ~[spring-cloud-context-5.0.0.jar:5.0.0]
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134) ~[spring-cloud-context-5.0.0.jar:5.0.0]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:209) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:795) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:745) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1500) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:704) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1493) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1225) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1186) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:176) ~[spring-boot-web-server-4.0.2.jar:4.0.2]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1132) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147) ~[spring-boot-4.0.2.jar:4.0.2]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116) ~[spring-boot-4.0.2.jar:4.0.2]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-03-11T01:22:53.964+05:30  INFO 28988 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2026-03-11T11:30:05.796+05:30  INFO 6216 --- [product] [main] [                                                 ] c.ecommerce.product.ProductApplication   : Starting ProductApplication using Java 25.0.1 with PID 6216 (D:\NewSpringProject\Microservice\eCommerce_Microservice\product\product\target\classes started by RAUNAK in D:\NewSpringProject\Microservice\eCommerce_Microservice)
+2026-03-11T11:30:05.804+05:30  INFO 6216 --- [product] [main] [                                                 ] c.ecommerce.product.ProductApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-03-11T11:30:05.876+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8888
+2026-03-11T11:30:05.876+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=product, profiles=[default], label=null, version=null, state=null
+2026-03-11T11:30:07.657+05:30  INFO 6216 --- [product] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-11T11:30:07.840+05:30  INFO 6216 --- [product] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 165 ms. Found 1 JPA repository interface.
+2026-03-11T11:30:08.376+05:30  INFO 6216 --- [product] [main] [                                                 ] faultConfiguringBeanFactoryPostProcessor : No bean named 'errorChannel' has been explicitly defined. Therefore, a default PublishSubscribeChannel will be created.
+2026-03-11T11:30:08.388+05:30  INFO 6216 --- [product] [main] [                                                 ] faultConfiguringBeanFactoryPostProcessor : No bean named 'integrationHeaderChannelRegistry' has been explicitly defined. Therefore, a default DefaultHeaderChannelRegistry will be created.
+2026-03-11T11:30:08.453+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=9c09fc84-45fd-38e5-b01b-df4209c45e1a
+2026-03-11T11:30:09.249+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-03-11T11:30:09.277+05:30  INFO 6216 --- [product] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-11T11:30:09.278+05:30  INFO 6216 --- [product] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-03-11T11:30:09.398+05:30  INFO 6216 --- [product] [main] [                                                 ] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 3516 ms
+2026-03-11T11:30:10.209+05:30 DEBUG 6216 --- [product] [main] [                                                 ] o.s.w.f.ServerHttpObservationFilter      : Filter 'webMvcObservationFilter' configured for use
+2026-03-11T11:30:10.426+05:30  INFO 6216 --- [product] [main] [                                                 ] org.hibernate.orm.jpa                    : HHH008540: Processing PersistenceUnitInfo [name: default]
+2026-03-11T11:30:10.549+05:30  INFO 6216 --- [product] [main] [                                                 ] org.hibernate.orm.core                   : HHH000001: Hibernate ORM core version 7.2.1.Final
+2026-03-11T11:30:11.331+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-11T11:30:11.394+05:30  INFO 6216 --- [product] [main] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-11T11:30:11.995+05:30  INFO 6216 --- [product] [main] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2746bc43
+2026-03-11T11:30:11.999+05:30  INFO 6216 --- [product] [main] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-03-11T11:30:12.164+05:30  WARN 6216 --- [product] [main] [                                                 ] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-03-11T11:30:12.245+05:30  INFO 6216 --- [product] [main] [                                                 ] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/productdb]
+	Database driver: PostgreSQL JDBC Driver
+	Database dialect: PostgreSQLDialect
+	Database version: 14.21
+	Default catalog/schema: productdb/public
+	Autocommit mode: undefined/unknown
+	Isolation level: READ_COMMITTED [default READ_COMMITTED]
+	JDBC fetch size: none
+	Pool: DataSourceConnectionProvider
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-03-11T11:30:14.396+05:30  INFO 6216 --- [product] [main] [                                                 ] org.hibernate.orm.core                   : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-11T11:30:14.667+05:30  INFO 6216 --- [product] [main] [                                                 ] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-11T11:30:14.920+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.d.j.r.query.QueryEnhancerFactories   : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-11T11:30:17.059+05:30  WARN 6216 --- [product] [main] [                                                 ] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-11T11:30:17.337+05:30 DEBUG 6216 --- [product] [main] [                                                 ] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2026-03-11T11:30:17.426+05:30 DEBUG 6216 --- [product] [main] [                                                 ] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2026-03-11T11:30:17.492+05:30 DEBUG 6216 --- [product] [main] [                                                 ] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 2 RequestBodyAdvice, 1 ResponseBodyAdvice
+2026-03-11T11:30:17.650+05:30 DEBUG 6216 --- [product] [main] [                                                 ] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2026-03-11T11:30:18.292+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.s.m.DirectWithAttributesChannel    : Channel 'product.springCloudBusInput' has 1 subscriber(s).
+2026-03-11T11:30:19.435+05:30  INFO 6216 --- [product] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestClient.
+2026-03-11T11:30:19.536+05:30  WARN 6216 --- [product] [main] [                                                 ] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2026-03-11T11:30:19.551+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 25 endpoints beneath base path '/actuator'
+2026-03-11T11:30:19.784+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : Adding {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2026-03-11T11:30:19.785+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.i.channel.PublishSubscribeChannel    : Channel 'product.errorChannel' has 1 subscriber(s).
+2026-03-11T11:30:19.786+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : started bean '_org.springframework.integration.errorLogger'
+2026-03-11T11:30:19.838+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2026-03-11T11:30:19.886+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2026-03-11T11:30:19.893+05:30  INFO 6216 --- [product] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:30:19.911+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2026-03-11T11:30:19.913+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2026-03-11T11:30:19.913+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2026-03-11T11:30:19.914+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2026-03-11T11:30:19.915+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2026-03-11T11:30:19.915+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2026-03-11T11:30:19.915+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2026-03-11T11:30:20.866+05:30 DEBUG 6216 --- [product] [main] [69b104f4afe9a88de62fad0587cc82c2-e62fad0587cc82c2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:30:20.926+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2026-03-11T11:30:20.930+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2026-03-11T11:30:20.935+05:30  INFO 6216 --- [product] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2026-03-11T11:30:20.939+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1773208820937 with initial instances count: 0
+2026-03-11T11:30:20.948+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application PRODUCT with eureka with status UP
+2026-03-11T11:30:20.950+05:30  INFO 6216 --- [product] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1773208820950, current=UP, previous=STARTING]
+2026-03-11T11:30:20.955+05:30  INFO 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081: registering service...
+2026-03-11T11:30:20.958+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.s.binder.DefaultBinderFactory      : Creating binder: rabbit
+2026-03-11T11:30:20.959+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.s.binder.DefaultBinderFactory      : Constructing binder child context for rabbit
+2026-03-11T11:30:21.011+05:30 DEBUG 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [69b104f40b5299f2d661621db8a7e189-d661621db8a7e189] o.s.web.client.DefaultRestClient         : Writing [InstanceInfo [instanceId = LAPTOP-5CQ16E5N.mshome.net:product:8081, appName = PRODUCT, hostName = 172.23.192.1, status = UP, ipAddr = 172.23.192.1, port = 8081, securePort = 443, dataCenterInfo = com.netflix.appinfo.MyDataCenterInfo@40c29d65] as "application/json" with org.springframework.http.converter.json.MappingJackson2HttpMessageConverter
+2026-03-11T11:30:21.186+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.s.binder.DefaultBinderFactory      : Caching the binder: rabbit
+2026-03-11T11:30:21.216+05:30  INFO 6216 --- [product] [main] [                                                 ] c.s.b.r.p.RabbitExchangeQueueProvisioner : declaring queue for inbound: springCloudBus.anonymous.99a-IAgbRX-yTOFmA87oqQ, bound to: springCloudBus
+2026-03-11T11:30:21.224+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.a.r.c.CachingConnectionFactory       : Attempting to connect to: [localhost:5672]
+2026-03-11T11:30:21.282+05:30  INFO 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081 - registration status: 204
+2026-03-11T11:30:21.327+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.a.r.c.CachingConnectionFactory       : Created new connection: rabbitConnectionFactory#2ab3744a:0/SimpleConnection@1fc7a5e8 [delegate=amqp://guest@127.0.0.1:5672/, localPort=53247]
+2026-03-11T11:30:21.414+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'rabbit-1389856922.springCloudBusInput.errors' has 1 subscriber(s).
+2026-03-11T11:30:21.416+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'rabbit-1389856922.springCloudBusInput.errors' has 2 subscriber(s).
+2026-03-11T11:30:21.452+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.i.a.i.AmqpInboundChannelAdapter      : started bean 'inbound.springCloudBus.anonymous.99a-IAgbRX-yTOFmA87oqQ'
+2026-03-11T11:30:21.476+05:30  INFO 6216 --- [product] [main] [                                                 ] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-03-11T11:30:21.478+05:30  INFO 6216 --- [product] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8081
+2026-03-11T11:30:21.572+05:30  INFO 6216 --- [product] [main] [                                                 ] c.ecommerce.product.ProductApplication   : Started ProductApplication in 17.541 seconds (process running for 19.175)
+2026-03-11T11:30:22.007+05:30  WARN 6216 --- [product] [AsyncReporter{ZipkinHttpClientSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2026-03-11T11:30:22.007+05:30  WARN 6216 --- [product] [AsyncReporter{ZipkinHttpClientSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 2 spans due to ConnectException()
+
+java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:na]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:na]
+	at org.springframework.boot.zipkin.autoconfigure.ZipkinHttpClientSender.postSpans(ZipkinHttpClientSender.java:59) ~[spring-boot-zipkin-4.0.2.jar:4.0.2]
+	at org.springframework.boot.zipkin.autoconfigure.HttpSender.postSpans(HttpSender.java:69) ~[spring-boot-zipkin-4.0.2.jar:4.0.2]
+	at org.springframework.boot.zipkin.autoconfigure.HttpSender.postSpans(HttpSender.java:41) ~[spring-boot-zipkin-4.0.2.jar:4.0.2]
+	at zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123) ~[zipkin-reporter-3.5.1.jar:na]
+	at zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266) ~[zipkin-reporter-3.5.1.jar:na]
+	at zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352) ~[zipkin-reporter-3.5.1.jar:na]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1070) ~[java.net.http:na]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:223) ~[java.net.http:na]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:277) ~[java.net.http:na]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:235) ~[java.net.http:na]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:955) ~[na:na]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:932) ~[na:na]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531) ~[na:na]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1794) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) ~[na:na]
+	... 1 common frames omitted
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[na:na]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[na:na]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:211) ~[java.net.http:na]
+	... 9 common frames omitted
+
+2026-03-11T11:30:50.932+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2026-03-11T11:30:50.933+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2026-03-11T11:30:50.934+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2026-03-11T11:30:50.934+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2026-03-11T11:30:50.934+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2026-03-11T11:30:50.934+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: false
+2026-03-11T11:30:50.934+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2026-03-11T11:30:50.946+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10512280b2546e68fdd7b8f6ec162-e68fdd7b8f6ec162] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:30:50.958+05:30  INFO 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2026-03-11T11:31:20.978+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b105300b71c0925f092af9873d33dc-5f092af9873d33dc] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:31:51.001+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1054e307f3e1e5106ad861787c306-5106ad861787c306] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:32:21.013+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1056db58f3e5d695906cfb15df422-695906cfb15df422] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:32:51.047+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1058b1d276858b6edbea22dc4d887-b6edbea22dc4d887] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:33:21.103+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b105a9f3031665af1bc3655c948102-af1bc3655c948102] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:33:51.133+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b105c7fc6192532a2a02977cd0b131-2a2a02977cd0b131] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:34:21.229+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b105e5459cd80e4f651550310d1c42-4f651550310d1c42] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:34:51.246+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10603bc1ba6c1244de19ff3649309-244de19ff3649309] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:35:19.952+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:35:21.260+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10621c72c813a4669ebfcfdd5b5a7-4669ebfcfdd5b5a7] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:35:51.294+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1063f106817b4cc7acf0dbd2e7673-cc7acf0dbd2e7673] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:36:21.328+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1065dd497236c42c75a510354ac56-42c75a510354ac56] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:36:51.368+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1067b6bdef4824d67bcb012cdade2-4d67bcb012cdade2] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:37:21.421+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10699c3941945d335833cfea81dba-d335833cfea81dba] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:37:51.547+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b106b73cddee517ddb61ebf6aabb23-7ddb61ebf6aabb23] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:38:21.708+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b106d5e5d186a08798a36516c7493b-8798a36516c7493b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:38:51.734+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b106f34fa949d1fbb715ad24dee563-fbb715ad24dee563] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:39:21.746+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b107115dc9ed8f320362bc61a1b8f4-320362bc61a1b8f4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:39:51.776+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1072fc4b68f5ce13fa29291fe6d23-e13fa29291fe6d23] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:40:19.985+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:40:21.805+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1074d4c4e9248d27fe250bd0bf18b-d27fe250bd0bf18b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:40:51.839+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1076b111b078c6a205ffca919e9e4-6a205ffca919e9e4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:41:21.877+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1078911728d4bc41a773069a7006f-c41a773069a7006f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:41:51.915+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b107a7859a44a41af8c5d832cb2272-1af8c5d832cb2272] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:42:21.950+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b107c5faa72d2da7d7ad3b788f9053-a7d7ad3b788f9053] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:42:51.986+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b107e397e28b4562274f39e9da7349-62274f39e9da7349] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:43:21.998+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10801626a40eabdf07fefd14d27e0-bdf07fefd14d27e0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:43:52.029+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10820aadc1e34cf63bed0faaa62fa-cf63bed0faaa62fa] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:44:22.066+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1083eb7e1b6713f020321f67699a0-3f020321f67699a0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:44:52.948+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1085c1397c8d69b4ec557c90b79fb-9b4ec557c90b79fb] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:45:19.995+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:45:22.983+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1087ab385feef6909d0d22c6d7821-6909d0d22c6d7821] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:45:53.022+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10899af8a357df7bdc84bf626e6c1-f7bdc84bf626e6c1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:46:23.057+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b108b789859bb527fbfe70666b5fce-27fbfe70666b5fce] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:46:53.099+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b108d5fbd65628fe49e45d757d320f-fe49e45d757d320f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:47:23.108+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b108f3e7fcaa705f065933ec59b167-5f065933ec59b167] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:47:53.147+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10911b015973eb7aac88cbd1beecd-b7aac88cbd1beecd] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:48:23.186+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1092ffeb95d3c5e6f464cd588bf2e-5e6f464cd588bf2e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:48:53.228+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1094d8aa20f28ad580c13f08df4f6-ad580c13f08df4f6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:49:23.266+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1096bb6d60c9ccca0fc0f29bb32f4-cca0fc0f29bb32f4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:49:53.316+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b109891d1871940d99ae9f312f4014-0d99ae9f312f4014] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:50:20.010+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:50:23.339+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b109a70226f8dd8bbdb39a74b2788b-8bbdb39a74b2788b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:50:53.437+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b109c595019c0973d65a4be2336103-73d65a4be2336103] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:51:23.487+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b109e3a820ed6c882bf4a048307ecc-882bf4a048307ecc] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:51:53.602+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a01e5290d034b1785f375f73c90-4b1785f375f73c90] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:52:23.644+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a1ffffc33bae503b40637087c70-e503b40637087c70] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:52:53.681+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a3d28590ffeb11340e97dbf8384-b11340e97dbf8384] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:53:23.709+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a5bc79494efc3c55162478a843e-c3c55162478a843e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:53:53.745+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a794114f4390acb84b968ad5cd9-0acb84b968ad5cd9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:54:23.779+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10a97de1e89d8de4ca4febd216c6f-de4ca4febd216c6f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:54:53.814+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10ab554e3f5e2a0ab29b286ef70c5-a0ab29b286ef70c5] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:55:20.049+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T11:55:23.847+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10ad35702c2c6b23daf27ce334d52-b23daf27ce334d52] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:55:53.860+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10af1e9e8e5316b7d0885cbcd4b30-6b7d0885cbcd4b30] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:56:23.868+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10b0fa9be8b9824cd1086b365d618-24cd1086b365d618] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:56:53.884+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10b2d25c9a7e0984753a05a59e6a1-984753a05a59e6a1] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:57:23.901+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10b4bcab7879b4a663714658251da-4a663714658251da] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:57:53.919+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10b694fc684b6c176723a16cc7449-c176723a16cc7449] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:58:23.934+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10b877ee8ab7c43b2a97c2230a5c0-43b2a97c2230a5c0] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:58:53.948+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10ba5a74ce5ba3975660b365f9c2e-3975660b365f9c2e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:59:23.963+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10bc357ebf08bd6d06cacbf040b0a-d6d06cacbf040b0a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T11:59:53.987+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10be14daf7f7e089ce654f9208b58-089ce654f9208b58] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:00:20.082+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:00:24.017+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c004e4a43684ceb774af6974372-4ceb774af6974372] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:00:54.051+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c1ec09f38281da1b47abcd79e5c-1da1b47abcd79e5c] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:01:24.083+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c3c83d4447a403d0568a6984fd3-403d0568a6984fd3] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:01:54.115+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c5a66a25a49bd14a0e7a436e32b-bd14a0e7a436e32b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:02:24.227+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c78d3b97f97bda8aea2c0ad5735-bda8aea2c0ad5735] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:02:54.258+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10c96549552508044da380ecda36f-8044da380ecda36f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:03:24.292+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10cb4ccef72d9a80957a80c4734a4-a80957a80c4734a4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:03:54.327+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10cd2556c862730655fcc170b6f43-30655fcc170b6f43] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:04:24.361+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10cf0ba9e1e17788d2ece1af134f7-788d2ece1af134f7] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:04:54.399+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10d0ede51e33d48deda45481db2e4-48deda45481db2e4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:05:20.108+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:05:24.430+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10d2cdbb417f11053763bad02cfae-1053763bad02cfae] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:05:54.453+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10d4ad4f6c361d79a27c57615b538-d79a27c57615b538] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:06:24.491+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10d68baeadc2025a52d10ec5f48ec-25a52d10ec5f48ec] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:06:54.522+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10d8611bac94fa9aa33a3f771eadd-a9aa33a3f771eadd] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:07:24.554+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10da47055aa0e5bbfdae4e41fc53a-5bbfdae4e41fc53a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:07:54.592+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10dc27960d3a5439a241e907a3b8d-439a241e907a3b8d] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:08:24.607+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10de0f2f63bc358f23cc2e7f1e3b4-58f23cc2e7f1e3b4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:08:54.613+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10dfeb4245a9b90a513756ecc520a-90a513756ecc520a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:09:24.622+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10e1c168cc9917641465bce7fe6aa-7641465bce7fe6aa] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:09:54.637+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10e3a398cdb4c55e880c7b4d9c61b-55e880c7b4d9c61b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:10:20.135+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:10:24.646+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10e587093fc58214bf8de6081583b-214bf8de6081583b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:10:54.656+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10e76652201a0f9219fc41d8043ff-f9219fc41d8043ff] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:11:24.984+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10e941f7940799b53c42b5dcdb37b-9b53c42b5dcdb37b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:12:48.312+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10ee849e8e316665cb2509157b259-665cb2509157b259] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:12:50.667+05:30  WARN 6216 --- [product] [HikariPool-1:housekeeper] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s466ms146µs600ns).
+2026-03-11T12:13:18.344+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f06bde580671d88c45eb879e043-1d88c45eb879e043] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:13:48.374+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f241e305125c62433db0beb56df-c62433db0beb56df] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:14:18.405+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f424902d814e7557e20e6fe54ca-e7557e20e6fe54ca] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:14:48.437+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f60d13365d7d0b2c7adc0429ce6-d0b2c7adc0429ce6] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:15:18.455+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f7eaadbd06f51e6e95c857cecee-51e6e95c857cecee] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:15:48.478+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10f9c5fbf5d0759cc5c728d4ad396-59cc5c728d4ad396] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:16:14.896+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:16:18.486+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10fba3d29bef10bbf1be43f2825b3-0bbf1be43f2825b3] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:16:48.556+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10fd8b0c47f307a24936bd218c1b9-7a24936bd218c1b9] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:17:18.596+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b10ff6e2a0a85c74171387bc04c0a8-74171387bc04c0a8] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:17:48.789+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b110143c7bb121293207740ed0c72e-293207740ed0c72e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:18:18.823+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b110321397c1ab15def0848ed9ee17-15def0848ed9ee17] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:18:48.867+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11050ff3b851925f0f7f8550a1375-25f0f7f8550a1375] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:19:18.894+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1106e2202d6670d8ee2d5a46d84ac-0d8ee2d5a46d84ac] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:19:48.935+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1108c5e1ae67dd012889a66be225a-d012889a66be225a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:20:18.980+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b110aa8e2549759a3010ed91c4748e-9a3010ed91c4748e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:20:49.027+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b110c90070de836bbf654eb3147888-6bbf654eb3147888] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:21:14.926+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:21:19.064+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b110e7de8cfeffff5c0d159ba3830a-ff5c0d159ba3830a] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:21:49.104+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11105c61f3ad74deafce7a111879e-4deafce7a111879e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:22:19.142+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11123a53b3b2508ae24fa99ecb1af-08ae24fa99ecb1af] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:22:49.171+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b111417deb3af3ab5d3069c698cf6f-ab5d3069c698cf6f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:23:19.192+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1115ff1c23b7faa979f0486f03b41-aa979f0486f03b41] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:23:49.226+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1117d71206ac30558235bb65d8b0b-0558235bb65d8b0b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:24:19.255+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1119b6946dcac4ef82a82ea4a1286-4ef82a82ea4a1286] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:24:49.292+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b111b9a7ea89bd7e4ce78269eff303-7e4ce78269eff303] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:25:19.360+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b111d73d2dbcedf97e34b02fddfbcf-f97e34b02fddfbcf] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:25:49.370+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b111f534ed2851ab9977eb8a08644f-ab9977eb8a08644f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:26:14.956+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:26:19.380+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b112136f0cbbdd161384a429d41661-161384a429d41661] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:26:49.392+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11231585337d0ac5255a4d0542a40-ac5255a4d0542a40] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:27:19.402+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1124f9e21c579ea954bdcf60ba0b7-ea954bdcf60ba0b7] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:27:49.424+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1126dc8402f187d705e26b681f047-7d705e26b681f047] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:28:19.463+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1128b3a992196813c6a3e6983ac07-813c6a3e6983ac07] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:28:29.520+05:30  INFO 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-11T12:28:29.522+05:30  INFO 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-11T12:28:29.528+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2026-03-11T12:28:29.532+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2026-03-11T12:28:29.570+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@38a64fbd
+2026-03-11T12:28:29.574+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@26b6c4de
+2026-03-11T12:28:29.576+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2026-03-11T12:28:29.576+05:30  INFO 6216 --- [product] [http-nio-8081-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 53 ms
+2026-03-11T12:28:29.699+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [69b11295b414020afe6d888d12820b11-fe6d888d12820b11] o.s.web.servlet.DispatcherServlet        : GET "/api/products/fetch", parameters={}
+2026-03-11T12:28:29.746+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [69b11295b414020afe6d888d12820b11-fe6d888d12820b11] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.ecommerce.product.controller.ProductController#fetchAllProducts()
+2026-03-11T12:28:30.924+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [69b11295b414020afe6d888d12820b11-fe6d888d12820b11] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2026-03-11T12:28:30.945+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [69b11295b414020afe6d888d12820b11-fe6d888d12820b11] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [[ProductResponse(name=p4, description=desc3, price=1000.88, category=cat2, imageUrl=iu.in, stockQuan (truncated)...]
+2026-03-11T12:28:31.233+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-1] [69b11295b414020afe6d888d12820b11-fe6d888d12820b11] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2026-03-11T12:28:31.316+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-2] [69b11297bd397e4343205a368c38843c-43205a368c38843c] o.s.web.servlet.DispatcherServlet        : GET "/api/products/fetch", parameters={}
+2026-03-11T12:28:31.323+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-2] [69b11297bd397e4343205a368c38843c-43205a368c38843c] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.ecommerce.product.controller.ProductController#fetchAllProducts()
+2026-03-11T12:28:31.336+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-2] [69b11297bd397e4343205a368c38843c-43205a368c38843c] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2026-03-11T12:28:31.337+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-2] [69b11297bd397e4343205a368c38843c-43205a368c38843c] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [[ProductResponse(name=p4, description=desc3, price=1000.88, category=cat2, imageUrl=iu.in, stockQuan (truncated)...]
+2026-03-11T12:28:31.341+05:30 DEBUG 6216 --- [product] [http-nio-8081-exec-2] [69b11297bd397e4343205a368c38843c-43205a368c38843c] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2026-03-11T12:28:49.491+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b112a9985ae5f31a3973ce9df39a4f-1a3973ce9df39a4f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:29:19.514+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b112c7f42c7288c6e22c63cf45a471-c6e22c63cf45a471] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:29:49.546+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b112e5d6afda1ad2fbf42b291b3d78-d2fbf42b291b3d78] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:30:19.574+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1130329caa04947f08f3d50a98d56-47f08f3d50a98d56] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:30:49.598+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11321a617c24a87edd691ec480102-87edd691ec480102] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:31:14.971+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:31:19.634+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1133f15d1fd3e0b0778708d7bfeae-0b0778708d7bfeae] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:31:49.664+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1135dac7ac6d1ad3e6df7041e29e8-ad3e6df7041e29e8] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:32:19.698+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1137b08e713643e3f822a4aee4c74-3e3f822a4aee4c74] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:32:49.776+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b113991b4d7b9c4dfe670e259d5447-4dfe670e259d5447] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:33:19.796+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b113b7a00a37a3bee5fa63e35d6f36-bee5fa63e35d6f36] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:47:06.199+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b116f18d7c8f2d2aea3f1c40913a3b-2aea3f1c40913a3b] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:47:22.062+05:30  WARN 6216 --- [product] [HikariPool-1:housekeeper] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m29s915ms7µs600ns).
+2026-03-11T12:47:36.304+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11710a624cc5cf30b0eac03ff301f-f30b0eac03ff301f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:48:06.325+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1172e7cc6d75b38deb6858b903133-38deb6858b903133] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:48:36.391+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1174cc2bd6d2c0e201450a3934dcd-0e201450a3934dcd] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:49:06.399+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1176affea57dd72c969c5b74d9992-72c969c5b74d9992] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:49:30.362+05:30  INFO 6216 --- [product] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-03-11T12:49:36.408+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b117884764b8ac966387ad2249234e-966387ad2249234e] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:50:06.443+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b117a6f0207997d80afa8febdf5118-d80afa8febdf5118] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:50:36.467+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b117c49421dc9c6ee89ca36f300d97-6ee89ca36f300d97] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:51:06.500+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b117e21ff46dae690ed1da6256d3ac-690ed1da6256d3ac] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:51:36.529+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11800f0bb1c0c839038dca660f37f-839038dca660f37f] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:52:06.554+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1181e1e9f819d2801599c324aa319-2801599c324aa319] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:52:36.594+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1183c926989eaecc6a9b7dd3c70a7-ecc6a9b7dd3c70a7] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:53:06.627+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1185a2d9bff1becb2c4138dfa9545-ecb2c4138dfa9545] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:53:36.659+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b1187803d18b12666e90f6237426e4-666e90f6237426e4] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:54:06.666+05:30 DEBUG 6216 --- [product] [DiscoveryClient-CacheRefreshExecutor-%d] [69b11896c7dba6ea18671659ff391e89-18671659ff391e89] o.s.web.client.DefaultRestClient         : Reading to [com.netflix.discovery.shared.Applications]
+2026-03-11T12:54:14.102+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application PRODUCT with eureka with status DOWN
+2026-03-11T12:54:14.107+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1773213854107, current=DOWN, previous=UP]
+2026-03-11T12:54:14.109+05:30  INFO 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081: registering service...
+2026-03-11T12:54:14.166+05:30 DEBUG 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [69b1189e43537ddaa6095399ccb76f95-a6095399ccb76f95] o.s.web.client.DefaultRestClient         : Writing [InstanceInfo [instanceId = LAPTOP-5CQ16E5N.mshome.net:product:8081, appName = PRODUCT, hostName = 172.23.192.1, status = DOWN, ipAddr = 172.23.192.1, port = 8081, securePort = 443, dataCenterInfo = com.netflix.appinfo.MyDataCenterInfo@40c29d65] as "application/json" with org.springframework.http.converter.json.MappingJackson2HttpMessageConverter
+2026-03-11T12:54:14.191+05:30  INFO 6216 --- [product] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081 - registration status: 204
+2026-03-11T12:54:14.459+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-11T12:54:14.550+05:30  INFO 6216 --- [product] [tomcat-shutdown] [                                                 ] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-11T12:54:14.720+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.a.r.l.SimpleMessageListenerContainer : Waiting for workers to finish.
+2026-03-11T12:54:15.168+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.a.r.l.SimpleMessageListenerContainer : Successfully waited for workers to finish.
+2026-03-11T12:54:15.183+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.a.i.AmqpInboundChannelAdapter      : stopped bean 'inbound.springCloudBus.anonymous.99a-IAgbRX-yTOFmA87oqQ'
+2026-03-11T12:54:15.367+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'product.rabbit-1389856922.springCloudBusInput.errors' has 1 subscriber(s).
+2026-03-11T12:54:15.372+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.c.stream.binder.BinderErrorChannel   : Channel 'product.rabbit-1389856922.springCloudBusInput.errors' has 0 subscriber(s).
+2026-03-11T12:54:15.747+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : Removing {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2026-03-11T12:54:15.747+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.channel.PublishSubscribeChannel    : Channel 'product.errorChannel' has 0 subscriber(s).
+2026-03-11T12:54:15.748+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] o.s.i.endpoint.EventDrivenConsumer       : stopped bean '_org.springframework.integration.errorLogger'
+2026-03-11T12:54:15.854+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-11T12:54:15.962+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-03-11T12:54:15.973+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-03-11T12:54:16.534+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2026-03-11T12:54:19.538+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2026-03-11T12:54:19.636+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.createResourceAccessException(DefaultRestClient.java:763)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:615)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchange(DefaultRestClient.java:567)
+	at org.springframework.web.client.RestClient$RequestHeadersSpec.exchange(RestClient.java:750)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.executeAndExtract(DefaultRestClient.java:896)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.toBodilessEntity(DefaultRestClient.java:860)
+	at org.springframework.cloud.netflix.eureka.http.RestClientEurekaHttpClient.cancel(RestClientEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:919)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:900)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:453)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:411)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:237)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:193)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:209)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:795)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:745)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1500)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:704)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1493)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1225)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1186)
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:176)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1132)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:639)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeWithRequest(AbstractBufferingClientHttpRequest.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest$EndOfChainRequestExecution.execute(InterceptingClientHttpRequest.java:102)
+	at org.springframework.cloud.netflix.eureka.http.RestClientTransportClientFactory.lambda$newClient$2(RestClientTransportClientFactory.java:98)
+	at org.springframework.http.client.ClientHttpRequestInterceptor.lambda$apply$0(ClientHttpRequestInterceptor.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:73)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:50)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:609)
+	... 39 more
+
+2026-03-11T12:54:19.637+05:30  WARN 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-03-11T12:54:19.687+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.createResourceAccessException(DefaultRestClient.java:763)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:615)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchange(DefaultRestClient.java:567)
+	at org.springframework.web.client.RestClient$RequestHeadersSpec.exchange(RestClient.java:750)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.executeAndExtract(DefaultRestClient.java:896)
+	at org.springframework.web.client.DefaultRestClient$DefaultResponseSpec.toBodilessEntity(DefaultRestClient.java:860)
+	at org.springframework.cloud.netflix.eureka.http.RestClientEurekaHttpClient.cancel(RestClientEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:919)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:900)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:453)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:411)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:237)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:193)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:209)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:795)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:745)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1500)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:704)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1493)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1225)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1186)
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:176)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1132)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:639)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeWithRequest(AbstractBufferingClientHttpRequest.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest$EndOfChainRequestExecution.execute(InterceptingClientHttpRequest.java:102)
+	at org.springframework.cloud.netflix.eureka.http.RestClientTransportClientFactory.lambda$newClient$2(RestClientTransportClientFactory.java:98)
+	at org.springframework.http.client.ClientHttpRequestInterceptor.lambda$apply$0(ClientHttpRequestInterceptor.java:89)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:73)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:50)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:80)
+	at org.springframework.web.client.DefaultRestClient$DefaultRequestBodyUriSpec.exchangeInternal(DefaultRestClient.java:609)
+	... 40 more
+
+2026-03-11T12:54:19.688+05:30  WARN 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-03-11T12:54:19.690+05:30 ERROR 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_PRODUCT/LAPTOP-5CQ16E5N.mshome.net:product:8081 - de-registration failedCannot execute request on any known server
+
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:919) ~[eureka-client-2.0.5.jar:2.0.5]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:900) ~[eureka-client-2.0.5.jar:2.0.5]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:453) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:411) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:237) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:193) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387) ~[spring-cloud-context-5.0.0.jar:5.0.0]
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134) ~[spring-cloud-context-5.0.0.jar:5.0.0]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:209) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:795) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:745) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1500) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:704) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1493) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1225) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1186) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:176) ~[spring-boot-web-server-4.0.2.jar:4.0.2]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1132) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147) ~[spring-boot-4.0.2.jar:4.0.2]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116) ~[spring-boot-4.0.2.jar:4.0.2]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-03-11T12:54:19.704+05:30  INFO 6216 --- [product] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
