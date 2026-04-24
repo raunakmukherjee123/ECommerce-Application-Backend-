@@ -52,13 +52,14 @@ public class RabbitmqConfig {
         return rabbitAdmin;
     }
 
-    // converts java objects a=into json and vice-versa
+    // converts java objects into json and vice-versa
     @Bean
     public MessageConverter messageConverter()
     {
         return new JacksonJsonMessageConverter();
     }
 
+    // used to send messages to rabbitmq
     @Bean
     public RabbitTemplate rabbitTemplate(ConnectionFactory connectionFactory)
     {

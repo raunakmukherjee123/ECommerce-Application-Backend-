@@ -18,11 +18,11 @@ public class GatewayConfig {
     public GatewayConfig(AuthenticationFilter authenticationFilter) {
         this.authenticationFilter = authenticationFilter;
     }
-
+// for redis, download dependency spring data reactive redis
     @Bean
     public RedisRateLimiter redisRateLimiter()
     {
-       return new RedisRateLimiter(1,1,1);
+        return new RedisRateLimiter(1,1,1);
     }
 
     @Bean
@@ -40,7 +40,8 @@ public class GatewayConfig {
 //                                .setName("ecomBreaker")
 //
 //                                .setFallbackUri("forward:/fallback/products")))
-                        .filters(f -> f.retry(retryConfig -> retryConfig
+                        .filters(f -> f
+                                .retry(retryConfig -> retryConfig
                                         .setRetries(10)
                                         .setMethods(HttpMethod.GET)
                                 )
