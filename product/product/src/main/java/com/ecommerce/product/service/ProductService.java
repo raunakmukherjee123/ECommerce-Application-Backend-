@@ -3,6 +3,7 @@ package com.ecommerce.product.service;
 
 import com.ecommerce.product.dto.ProductRequest;
 import com.ecommerce.product.dto.ProductResponse;
+import com.ecommerce.product.exceptions.ProductNotFoundExceptions;
 import com.ecommerce.product.model.Product;
 import com.ecommerce.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
@@ -40,6 +41,11 @@ public class ProductService {
 
     public List<ProductResponse> getProducts() {
         List<Product> products= productRepository.findByIsActiveTrue();
+
+        if(products==null)
+        {
+            throw new ProductNotFoundExceptions("No product found in the database");
+        }
 
        return products.stream()
                 .map(product ->mapToProductResponse(product))

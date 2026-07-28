@@ -3,6 +3,7 @@ package com.ecommerce.product.controller;
 
 import com.ecommerce.product.dto.ProductRequest;
 import com.ecommerce.product.dto.ProductResponse;
+import com.ecommerce.product.exceptions.ProductNotFoundExceptions;
 import com.ecommerce.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -36,7 +37,7 @@ public class ProductController {
     {
         return productService.getProductById(id)
                 .map(ResponseEntity::ok)
-                .orElseGet(()->ResponseEntity.notFound().build());
+                .orElseThrow(()->new ProductNotFoundExceptions("No product found"));
     }
 
     @PutMapping("/update/{id}")
