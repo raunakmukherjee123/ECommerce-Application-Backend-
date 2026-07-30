@@ -10,6 +10,5 @@ public interface ProductProjection {
     public String getCategory();
     public String getImageUrl();
     public Integer getStockQuantity();
-    public LocalDateTime getCreatedAt();
-    public LocalDateTime getUpdatedAt();
+    public Boolean getIsActive();
 }

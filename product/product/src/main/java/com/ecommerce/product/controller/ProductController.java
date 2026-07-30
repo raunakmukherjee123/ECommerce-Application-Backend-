@@ -33,7 +33,7 @@ public class ProductController {
     }
 
     @GetMapping("/fetch/{id}")
-    public ResponseEntity<ProductResponse> fetchProductById(@PathVariable Long id)
+    public ResponseEntity<?> fetchProductById(@PathVariable Long id)
     {
         return productService.getProductById(id)
                 .map(ResponseEntity::ok)

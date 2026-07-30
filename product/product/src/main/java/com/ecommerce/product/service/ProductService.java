@@ -5,6 +5,7 @@ import com.ecommerce.product.dto.ProductRequest;
 import com.ecommerce.product.dto.ProductResponse;
 import com.ecommerce.product.exceptions.ProductNotFoundExceptions;
 import com.ecommerce.product.model.Product;
+import com.ecommerce.product.projection.ProductProjection;
 import com.ecommerce.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
@@ -52,16 +53,30 @@ public class ProductService {
                .collect(Collectors.toList());
     }
 
-    private ProductResponse mapToProductResponse(Product savedProduct) {
+//    private ProductResponse mapToProductResponse(Product savedProduct) {
+//        ProductResponse productResponse=new ProductResponse();
+//
+//        productResponse.setDescription(savedProduct.getDescription());
+//        productResponse.setName(savedProduct.getName());
+//        productResponse.setPrice(savedProduct.getPrice());
+//        productResponse.setCategory(savedProduct.getCategory());
+//        productResponse.setImageUrl(savedProduct.getImageUrl());
+//        productResponse.setStockQuantity(savedProduct.getStockQuantity());
+//        productResponse.setIsActive(savedProduct.getIsActive());
+//
+//        return productResponse;
+//    }
+
+    private ProductResponse mapToProductResponse(ProductProjection productProjection) {
         ProductResponse productResponse=new ProductResponse();
 
-        productResponse.setDescription(savedProduct.getDescription());
-        productResponse.setName(savedProduct.getName());
-        productResponse.setPrice(savedProduct.getPrice());
-        productResponse.setCategory(savedProduct.getCategory());
-        productResponse.setImageUrl(savedProduct.getImageUrl());
-        productResponse.setStockQuantity(savedProduct.getStockQuantity());
-        productResponse.setIsActive(savedProduct.getIsActive());
+        productResponse.setDescription(productProjection.getDescription());
+        productResponse.setName(productProjection.getName());
+        productResponse.setPrice(productProjection.getPrice());
+        productResponse.setCategory(productProjection.getCategory());
+        productResponse.setImageUrl(productProjection.getImageUrl());
+        productResponse.setStockQuantity(productProjection.getStockQuantity());
+        productResponse.setIsActive(productProjection.getIsActive());
 
         return productResponse;
     }
@@ -92,8 +107,12 @@ public class ProductService {
                 .collect(Collectors.toList());
     }
 
-    public Optional<ProductResponse> getProductById(Long id) {
-        return productRepository.findByIdAndIsActiveTrue(id)
-                .map(product -> mapToProductResponse(product));
+    public ProductResponse getProductById(Long id) {
+        ProductProjection productProjection=productRepository.findProductById(id);
+
+//        return productRepository.findByIdAndIsActiveTrue(id)
+//                .map(product -> mapToProductResponse(product));
+
+        return mapToProductResponse(productProjection);
     }
 }
