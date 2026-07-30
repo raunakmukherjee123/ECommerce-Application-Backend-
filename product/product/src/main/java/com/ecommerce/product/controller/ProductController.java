@@ -35,9 +35,7 @@ public class ProductController {
     @GetMapping("/fetch/{id}")
     public ResponseEntity<?> fetchProductById(@PathVariable Long id)
     {
-        return productService.getProductById(id)
-                .map(ResponseEntity::ok)
-                .orElseThrow(()->new ProductNotFoundExceptions("No product found"));
+        return new ResponseEntity<>(productService.getProductById(id),HttpStatus.OK);
     }
 
     @PutMapping("/update/{id}")

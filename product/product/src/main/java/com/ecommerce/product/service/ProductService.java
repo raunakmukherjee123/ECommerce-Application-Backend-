@@ -53,21 +53,22 @@ public class ProductService {
                .collect(Collectors.toList());
     }
 
-//    private ProductResponse mapToProductResponse(Product savedProduct) {
-//        ProductResponse productResponse=new ProductResponse();
-//
-//        productResponse.setDescription(savedProduct.getDescription());
-//        productResponse.setName(savedProduct.getName());
-//        productResponse.setPrice(savedProduct.getPrice());
-//        productResponse.setCategory(savedProduct.getCategory());
-//        productResponse.setImageUrl(savedProduct.getImageUrl());
-//        productResponse.setStockQuantity(savedProduct.getStockQuantity());
-//        productResponse.setIsActive(savedProduct.getIsActive());
-//
-//        return productResponse;
-//    }
+    private ProductResponse mapToProductResponse(Product savedProduct) {
+        ProductResponse productResponse=new ProductResponse();
 
-    private ProductResponse mapToProductResponse(ProductProjection productProjection) {
+        productResponse.setDescription(savedProduct.getDescription());
+        productResponse.setName(savedProduct.getName());
+        productResponse.setPrice(savedProduct.getPrice());
+        productResponse.setCategory(savedProduct.getCategory());
+        productResponse.setImageUrl(savedProduct.getImageUrl());
+        productResponse.setStockQuantity(savedProduct.getStockQuantity());
+        productResponse.setIsActive(savedProduct.getIsActive());
+
+        return productResponse;
+    }
+
+
+    private ProductResponse mapToProductResponseFromProjection(ProductProjection productProjection) {
         ProductResponse productResponse=new ProductResponse();
 
         productResponse.setDescription(productProjection.getDescription());
@@ -110,9 +111,14 @@ public class ProductService {
     public ProductResponse getProductById(Long id) {
         ProductProjection productProjection=productRepository.findProductById(id);
 
+        if(productProjection==null)
+        {
+            throw new ProductNotFoundExceptions("No product found of id= "+id);
+        }
+
 //        return productRepository.findByIdAndIsActiveTrue(id)
 //                .map(product -> mapToProductResponse(product));
 
-        return mapToProductResponse(productProjection);
+        return mapToProductResponseFromProjection(productProjection);
     }
 }
