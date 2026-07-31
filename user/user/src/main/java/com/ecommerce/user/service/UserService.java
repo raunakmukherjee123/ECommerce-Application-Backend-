@@ -6,8 +6,10 @@ import com.ecommerce.user.dto.UserRequest;
 import com.ecommerce.user.dto.UserResponse;
 import com.ecommerce.user.models.Address;
 import com.ecommerce.user.models.User;
+import com.ecommerce.user.projections.UserProjection;
 import com.ecommerce.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
@@ -57,7 +59,14 @@ public class UserService {
                 .collect(Collectors.toList());
     }
 
-    public Optional<UserResponse> fetchUser(Long id) {
+    public UserResponse fetchUser(Long id) {
+        UserProjection userProjection=userRepository.findUserById(id);
+
+        if(userProjection==null)
+        {
+            throw new UsernameNotFoundException("No user found for id= "+id);
+        }
+
         return userRepository.findById(String.valueOf(id)).map(this::mapToUserResponse);
 
     }

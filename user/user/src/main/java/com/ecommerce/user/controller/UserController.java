@@ -47,16 +47,14 @@ private final UserService userService;
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<UserResponse> getUser(@PathVariable Long id,@RequestHeader("loggedInUser") String username)
+    public ResponseEntity<?> getUser(@PathVariable Long id,@RequestHeader("loggedInUser") String username)
     {
 //        logger.info("Fetching user for id: {}",id);
          log.info("Fetching user for id: {}",id);
 
         System.out.println("Username is "+username);
 
-        return userService.fetchUser(id)
-                .map(ResponseEntity::ok)
-                .orElseThrow(()->new UsernameNotFoundException("No user found"));
+        return new ResponseEntity<>(userService.fetchUser(id),HttpStatus.OK);
     }
 
     @PutMapping("/{id}")
