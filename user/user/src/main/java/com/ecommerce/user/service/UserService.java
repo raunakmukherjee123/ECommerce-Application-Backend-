@@ -113,6 +113,16 @@ public class UserService {
         userResponse.setPhone(userProjection.getPhone());
         userResponse.setRole(userProjection.getRole());
 
+        AddressDto addressDto=new AddressDto();
+
+        addressDto.setCity(userProjection.getAddress().getCity());
+        addressDto.setState(userProjection.getAddress().getState());
+        addressDto.setStreet(userProjection.getAddress().getStreet());
+        addressDto.setCountry(userProjection.getAddress().getCountry());
+        addressDto.setZipcode(userProjection.getAddress().getZipcode());
+
+        userResponse.setAddressDto(addressDto);
+
         return userResponse;
     }
 

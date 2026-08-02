@@ -13,16 +13,23 @@ import java.util.Optional;
 public interface UserRepository extends JpaRepository<User,String> {
     Optional<User> findByFirstName(String username);
 
-    @Query(value = """
-            SELECT
-                    u.password AS password,
-                    u.firstName AS firstName,
-                    u.lastName AS lastName,
-                    u.email AS email,
-                    u.phone AS phone,
-                    u.role AS role
-                FROM User u
-                WHERE u.id = :id
+//    @Query(value = """
+//            SELECT
+//                    u.password AS password,
+//                    u.firstName AS firstName,
+//                    u.lastName AS lastName,
+//                    u.email AS email,
+//                    u.phone AS phone,
+//                    u.role AS role
+//                FROM User u
+//                WHERE u.id = :id
+//            """)
+//    UserProjection findUserById(@Param("id") Long id);
+
+    @Query("""
+            SELECT u
+            FROM User u
+            WHERE u.id = :id
             """)
     UserProjection findUserById(@Param("id") Long id);
 }
