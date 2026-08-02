@@ -13,9 +13,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Service
@@ -67,7 +65,7 @@ public class UserService {
             throw new UsernameNotFoundException("No user found for id= "+id);
         }
 
-        return userRepository.findById(String.valueOf(id)).map(this::mapToUserResponse);
+        return mapToUserResponseFromUserProjection(userProjection);
 
     }
 
@@ -101,6 +99,19 @@ public class UserService {
         addressDto.setZipcode(address.getZipcode());
 
         userResponse.setAddressDto(addressDto);
+
+        return userResponse;
+    }
+
+    private UserResponse mapToUserResponseFromUserProjection(UserProjection userProjection)
+    {
+        UserResponse userResponse=new UserResponse();
+
+        userResponse.setFirstName(userProjection.getFirstName());
+        userResponse.setEmail(userProjection.getEmail());
+        userResponse.setLastName(userProjection.getLastName());
+        userResponse.setPhone(userProjection.getPhone());
+        userResponse.setRole(userProjection.getRole());
 
         return userResponse;
     }
